@@ -8,4 +8,8 @@ What used to be a one-line-of-code data harversting, now is a "big deal" for dev
 If you still reading this, you may have some serious motives to get indeed to the thruth of collecting data from Instragram, so without any further delay, let's spill it off:
 
 Instagram still has an API (let's keep fingers crossed it will not get more severe than it is currently). You can access it at
-https://www.instagram.com/developer
+https://www.instagram.com/developer. 
+
+The point of the exercise below is to connect to the API using R tools.
+
+
